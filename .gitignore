@@ -2,4 +2,8 @@
 CXR8/AAA Job Opportunity!!! - NIH Medical Image Analysis Scientist.pdf
 CXR8/AAA Postdoctoral Fellowship Opportunity!!! - NIH Medical Image Analysis Postdoc.pdf
 
+pretrained_gender_classifier.pt
+pretrained_target_classifier.pt
+pretrained_unet.pt
+
 #Test
